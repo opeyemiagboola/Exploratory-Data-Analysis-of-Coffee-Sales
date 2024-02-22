@@ -1,3 +1,3 @@
 # Exploratory Data Analysis of Coffee Sales
 
-![coffee dashboard!](/COFFEE DASHBOARD.PNG "coffee dashboard")
+![coffee dashboard!](/COFFEE_DASHBOARD.PNG "coffee dashboard")
